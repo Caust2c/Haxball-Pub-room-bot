@@ -13,7 +13,8 @@
 Modify the code to your own needs then simply go to html5.haxball.com/headless. Right click on the white area and click on inspect.<br>
 You will probably land in elements, just navigate and go to console.<br>
 #### Important! <br>
-![image](https://github.com/user-attachments/assets/fa3a1b51-932b-4240-9b97-2d522e954dcc) <br>
+![image](https://github.com/user-attachments/assets/8ab0a2b4-32d4-4453-b971-d937fb2ac3ec)
+ <br>
 click on 'top' and then paste your code <br>
 hit enter at the end of your code and complete your captcha. You will receive a link to your room which you should open in a NEW tab <br>
 Thats it!
